@@ -1,2 +1,2 @@
 # alexmcc_website
-My personal website.  An ongoing project that I like to tweak often.
+The first personal website I have ever built.  I have since retired it.
